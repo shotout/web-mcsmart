@@ -97,7 +97,7 @@
     <div class="container c-padding mb-4">
         <div class="row">
             <div class="col-lg-12">
-                <h2 class="c-title text-center">McSmart - Daily knowledge to make you smarter</h2>
+                <h2 class="c-title text-center">Be the smartest person in the room with McSmart!</h2>
             </div>
         </div>
     </div>
@@ -122,11 +122,11 @@
                 <div class="c-text-center">
                     <img src="{{url('/assets/images/five_star.svg')}}" alt="five Star Image">
                     <h4 class="c-subtitle mt-2 mb-3">
-                        A daily dose of positivity - The Happiness App with daily motivational quotes & affirmations!
+                        Your Ultimate Source for Mind-Blowing General Knowledge Facts!
                     </h4>
                 </div>
                 <p class="c-content">
-                    Affirmations are a powerful tool that can help you rewire your brain and change negative thought patterns. By verbally affirming your dreams and ambitions, you can empower yourself and build self-esteem. With daily affirmations, you can set reminders to be delivered throughout the day and choose from many intentions to focus on.
+                    Introducing McSmart, the ultimate app for general knowledge facts that you can use in any situation! Whether you're at work, hanging out with friends, on a date, or spending time with family, McSmart has got you covered. With 10 categories to choose from, including celebrities, science and technology, and wonders of the world, you'll have a wealth of fascinating information at your fingertips.
                 </p>
             </div>
         </div>
@@ -139,14 +139,14 @@
                     <div class="c-text-center">
                         <img src="{{url('/assets/images/five_star.svg')}}" alt="five Star Image">
                         <h4 class="c-subtitle mt-2 mb-3">
-                            McSmart - Self Care Made Easy - A daily dose of positivity!
+                            Be the Ultimate Conversation Starter with McSmart: The App That Makes You the Life of the Party!
                         </h4>
                     </div>
                     <p class="c-content">
-                        Positive affirmations not only help shift your mindset, but they also serve as prompts and reminders of what you are truly capable of. By practicing affirmations every day, you can strengthen the connection between your conscious and unconscious mind, making you more resilient in challenging circumstances.
+                        Imagine impressing your colleagues with your knowledge of global economy and business trends, or dazzling your date with facts about exotic locations and travel destinations. With McSmart, you can become the go-to person for interesting conversation starters and fun facts that will keep everyone engaged and entertained.
                     </p>
                     <p class="c-content">
-                        Buddha once said, "You become what you believe." By using affirmations as part of your daily routine, you can increase your awareness of your thoughts and words, making it easier to recognize and overcome negative patterns. Affirmations also help define your focus, allowing you to concentrate on achieving your goals and creating an abundance mindset.
+                        Whether you're hanging out with friends or meeting new people, knowing interesting facts about music, movies, and celebrities can make you the life of the party. With McSmart's entertainment category, you'll never run out of conversation starters. From the latest box office hits to the most iconic rock bands of all time, McSmart's entertainment facts will make sure you're the most interesting person in the room.
                     </p>
                 </div>
                 <div class="col-lg-4 text-center">
@@ -183,14 +183,14 @@
                 <div class="c-text-center">
                     <img src="{{url('/assets/images/five_star.svg')}}" alt="five Star Image">
                     <h4 class="c-subtitle mt-2 mb-3">
-                        Optimize Your Life -  Upgrade your mindset!
+                        Unlock a World of Knowledge and Happiness
                     </h4>
                 </div>
                 <p class="c-content">
-                    In addition, affirmations open you up to possibility. Too often, we get stuck in a mindset of impossibility, but affirmations can help turn this around. When you positively affirm what is possible, a whole world of opportunity can open up to you.
+                    But that's not all - did you know that learning new things can actually make you happier and more fulfilled? Studies have shown that acquiring knowledge and skills can lead to increased self-confidence, a sense of purpose, and even better mental health. With McSmart, you can improve your wellbeing while also having fun and expanding your mind.
                 </p>
                 <p class="c-content">
-                    In short, using affirmations can help you build resilience, overcome negative thought patterns, and achieve your goals. By practicing daily affirmations, you can empower yourself and create a positive mindset that will help you succeed in all areas of your life
+                    So why wait? Download McSmart today and start impressing everyone with your newfound knowledge!
                 </p>
             </div>
         </div>
@@ -208,7 +208,7 @@
         </div>
         <div class="row mt-2 pb-3">
             <div class="col-12">
-                <h3 class="c-title text-center">McSmart <br>Daily knowledge to make you smarter</h3>
+                <h3 class="c-title text-center">Be the smartest person in the room with McSmart!</h3>
             </div>
         </div>
 
@@ -231,11 +231,11 @@
                                 <div class="text-center">
                                     <img src="{{url('/assets/images/five_star.svg')}}" alt="five Star Image" style="width:40%;">
                                     <h5 class="c-subtitle mt-2 mb-3">
-                                        A daily dose of positivity - The Happiness App with daily motivational quotes & affirmations!
+                                        Your Ultimate Source for Mind-Blowing General Knowledge Facts!
                                     </h5>
                                 </div>
                                 <p class="c-content">
-                                    Affirmations are a powerful tool that can help you rewire your brain and change negative thought patterns. By verbally affirming your dreams and ambitions, you can empower yourself and build self-esteem. With daily affirmations, you can set reminders to be delivered throughout the day and choose from many intentions to focus on.
+                                    Introducing McSmart, the ultimate app for general knowledge facts that you can use in any situation! Whether you're at work, hanging out with friends, on a date, or spending time with family, McSmart has got you covered. With 10 categories to choose from, including celebrities, science and technology, and wonders of the world, you'll have a wealth of fascinating information at your fingertips.
                                 </p>
                             </div>
                         </div>
@@ -249,14 +249,14 @@
                                 <div class="text-center">
                                     <img src="{{url('/assets/images/five_star.svg')}}" alt="five Star Image" style="width:40%;">
                                     <h5 class="c-subtitle mt-2 mb-3">
-                                        McSmart - Self Care Made Easy - A daily dose of positivity!
+                                        Be the Ultimate Conversation Starter with McSmart: The App That Makes You the Life of the Party!
                                     </h5>
                                 </div>
                                 <p class="c-content">
-                                    Positive affirmations not only help shift your mindset, but they also serve as prompts and reminders of what you are truly capable of. By practicing affirmations every day, you can strengthen the connection between your conscious and unconscious mind, making you more resilient in challenging circumstances.
+                                    Imagine impressing your colleagues with your knowledge of global economy and business trends, or dazzling your date with facts about exotic locations and travel destinations. With McSmart, you can become the go-to person for interesting conversation starters and fun facts that will keep everyone engaged and entertained.
                                 </p>
                                 <p class="c-content">
-                                    Buddha once said, "You become what you believe." By using affirmations as part of your daily routine, you can increase your awareness of your thoughts and words, making it easier to recognize and overcome negative patterns. Affirmations also help define your focus, allowing you to concentrate on achieving your goals and creating an abundance mindset.
+                                    Whether you're hanging out with friends or meeting new people, knowing interesting facts about music, movies, and celebrities can make you the life of the party. With McSmart's entertainment category, you'll never run out of conversation starters. From the latest box office hits to the most iconic rock bands of all time, McSmart's entertainment facts will make sure you're the most interesting person in the room.
                                 </p>
                             </div>
                         </div>
@@ -270,14 +270,14 @@
                                 <div class="text-center">
                                     <img src="{{url('/assets/images/five_star.svg')}}" alt="five Star Image" style="width:40%;">
                                     <h5 class="c-subtitle mt-2 mb-3">
-                                        Optimize Your Life -  Upgrade your mindset!
+                                        Unlock a World of Knowledge and Happiness
                                     </h5>
                                 </div>
                                 <p class="c-content">
-                                    In addition, affirmations open you up to possibility. Too often, we get stuck in a mindset of impossibility, but affirmations can help turn this around. When you positively affirm what is possible, a whole world of opportunity can open up to you.
+                                    But that's not all - did you know that learning new things can actually make you happier and more fulfilled? Studies have shown that acquiring knowledge and skills can lead to increased self-confidence, a sense of purpose, and even better mental health. With McSmart, you can improve your wellbeing while also having fun and expanding your mind.
                                 </p>
                                 <p class="c-content">
-                                    In short, using affirmations can help you build resilience, overcome negative thought patterns, and achieve your goals. By practicing daily affirmations, you can empower yourself and create a positive mindset that will help you succeed in all areas of your life.
+                                    So why wait? Download McSmart today and start impressing everyone with your newfound knowledge!
                                 </p>
                             </div>
                         </div>
