@@ -244,7 +244,7 @@
                         <div class="carousel-item">
                             <div class="mb-3" style="position: relative;">
                                 <div style="position: absolute; z-index: 9999; bottom: 70px; width: 100%;">
-                                    <img src="{{url('/assets/images/mcsmart2.png')}}" class="d-block c-width" alt="McSmart App Image">
+                                    <img src="{{url('/assets/images/mcsmart2.png')}}" class="d-block c-width" style="width: 65%;" alt="McSmart App Image">
                                 </div>
                             </div>
                             <div>
@@ -265,7 +265,7 @@
                         <div class="carousel-item">
                             <div class="mb-3" style="position: relative;">
                                 <div style="position: absolute; z-index: 9999; bottom: 70px; width: 100%;">
-                                    <img src="{{url('/assets/images/mcsmart3.png')}}" class="d-block c-width" alt="McSmart App Image">
+                                    <img src="{{url('/assets/images/mcsmart3.png')}}" class="d-block c-width" style="width: 65%;" alt="McSmart App Image">
                                 </div>
                             </div>
                             <div>
