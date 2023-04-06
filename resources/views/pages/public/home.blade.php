@@ -208,7 +208,9 @@
         </div>
         <div class="row mt-2 pb-3">
             <div class="col-12">
-                <h3 class="c-title text-center">Be the smartest person in the room with McSmart!</h3>
+                <h3 class="c-title text-center" style="font-size: 22px;">
+                    Be the smartest person in <br>the room with McSmart!
+                </h3>
             </div>
         </div>
 
@@ -223,7 +225,7 @@
                     <div class="carousel-inner">
                         <div class="carousel-item active">
                             <div class="mb-3" style="position: relative;">
-                                <div style="position: absolute; z-index: 9999; bottom: 70px;">
+                                <div style="position: absolute; z-index: 9999; bottom: 70px; width: 100%;">
                                     <img src="{{url('/assets/images/mcsmart1.png')}}" class="d-block c-width" alt="McSmart App Image">
                                 </div>
                             </div>
@@ -241,7 +243,7 @@
                         </div>
                         <div class="carousel-item">
                             <div class="mb-3" style="position: relative;">
-                                <div style="position: absolute; z-index: 9999; bottom: 70px;">
+                                <div style="position: absolute; z-index: 9999; bottom: 70px; width: 100%;">
                                     <img src="{{url('/assets/images/mcsmart2.png')}}" class="d-block c-width" alt="McSmart App Image">
                                 </div>
                             </div>
@@ -262,7 +264,7 @@
                         </div>
                         <div class="carousel-item">
                             <div class="mb-3" style="position: relative;">
-                                <div style="position: absolute; z-index: 9999; bottom: 70px;">
+                                <div style="position: absolute; z-index: 9999; bottom: 70px; width: 100%;">
                                     <img src="{{url('/assets/images/mcsmart3.png')}}" class="d-block c-width" alt="McSmart App Image">
                                 </div>
                             </div>
