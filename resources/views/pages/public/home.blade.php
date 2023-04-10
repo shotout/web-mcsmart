@@ -105,7 +105,7 @@
     <div class="container c-padding mb-4">
         <div class="row">
             <div class="col-lg-4 mb-4 text-center">
-                <img src="{{url('/assets/images/mcsmart1.png')}}" alt="McSmart App Image" class="w-100">
+                <img src="{{url('/assets/images/mcsmart1-desktop.png')}}" alt="McSmart App Image" class="w-100">
                 <div class="c-dmobile">
                     <div class="f-inter mb-1">Download now:</div>
                     <div>
@@ -150,7 +150,7 @@
                     </p>
                 </div>
                 <div class="col-lg-4 text-center">
-                    <img src="{{url('/assets/images/mcsmart2.png')}}" alt="McSmart App Image" class="w-100">
+                    <img src="{{url('/assets/images/mcsmart2-desktop.png')}}" alt="McSmart App Image" class="w-100">
                     <div class="f-inter mb-1">Download now:</div>
                     <div>
                         <a style="text-decoration: none;" href="https://apps.apple.com/us/app/mooti/id6443447216" target="_blank" rel="noopener noreferrer">
@@ -168,7 +168,7 @@
     <div class="container c-padding mb-4">
         <div class="row">
             <div class="col-lg-4 text-center mb-4">
-                <img src="{{url('/assets/images/mcsmart3.png')}}" alt="McSmart App Image" class="w-100">
+                <img src="{{url('/assets/images/mcsmart3-desktop.png')}}" alt="McSmart App Image" class="w-100">
                 <div class="f-inter mb-1">Download now:</div>
                 <div>
                     <a style="text-decoration: none;" href="https://apps.apple.com/us/app/mooti/id6443447216" target="_blank" rel="noopener noreferrer">
