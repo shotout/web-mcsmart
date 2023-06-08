@@ -15,7 +15,7 @@ return [
             <div>160 Robinson Road #14-04</div>
             <div>SBF Center</div>
             <div>Singapore 068914</div>
-            <div>Email : contact@mcsmart.app</div>
+            <div>Email : contact@mcsmartapp.com</div>
             <div>Website : https://www.mcsmart.app</div>
 
             <h4 class="mt-3">Allgemeines zur Datenverarbeitung</h4>
@@ -484,7 +484,7 @@ return [
                 V. Empfänger von Daten (in Drittstaaten) / Dienstleister mit Zugriff auf personenenbezogene Daten (aus Drittstaaten)
             </h4>
             <p>
-                McSmart arbeitet mit Dienstleistern zusammen , um die Services rund um McSmart anzubieten. Ein Dienstleister erhält personenbezogene Daten von McSmart und ist damit beauftragt, diese Daten für bestimmte Zwecke zu verarbeiten. Untenstehend befindet sich die Auflistung aller Dienstleister von McSmart mit Nennung des Zwecks und Standorts der Datenverarbeitung. Weitere Details zur Datenverarbeitung befinden sich in den jeweiligen Datenschutzhinweisen der Dienstleister. Für mehr Informationen kontaktiere contact@mcsmart.app. Wir weisen darauf hin, dass diese Dienstleister u.a. in den USA, sprich außerhalb der EU sitzen. Wie der EuGH festgestellt hat, herrscht in den USA aktuell kein mit der EU vergleichbares Datenschutzniveau, da US Behörden und Geheimdienste auf diese Daten zugreifen könnten. Wenn wir beim Aufrufen der App Ihre Einwilligung einholen, stimmen Sie der Übermittlung der Daten und auch einem ggf. stattfindenden Zugriff dieser Behörden zu.
+                McSmart arbeitet mit Dienstleistern zusammen , um die Services rund um McSmart anzubieten. Ein Dienstleister erhält personenbezogene Daten von McSmart und ist damit beauftragt, diese Daten für bestimmte Zwecke zu verarbeiten. Untenstehend befindet sich die Auflistung aller Dienstleister von McSmart mit Nennung des Zwecks und Standorts der Datenverarbeitung. Weitere Details zur Datenverarbeitung befinden sich in den jeweiligen Datenschutzhinweisen der Dienstleister. Für mehr Informationen kontaktiere contact@mcsmartapp.com. Wir weisen darauf hin, dass diese Dienstleister u.a. in den USA, sprich außerhalb der EU sitzen. Wie der EuGH festgestellt hat, herrscht in den USA aktuell kein mit der EU vergleichbares Datenschutzniveau, da US Behörden und Geheimdienste auf diese Daten zugreifen könnten. Wenn wir beim Aufrufen der App Ihre Einwilligung einholen, stimmen Sie der Übermittlung der Daten und auch einem ggf. stattfindenden Zugriff dieser Behörden zu.
             </p>
             <table class="table table-bordered table-responsive-md">
                 <thead>
@@ -549,7 +549,7 @@ return [
 
             <h4 class="mt-4">Rechte der betroffenen Person</h4>
             <p>
-                Werden personenbezogene Daten von Ihnen verarbeitet, sind Sie Betroffener i.S.d. DSGVO und es stehen Ihnen folgende Rechte gegenüber dem Verantwortlichen zu. Diese Rechte können Sie z.B. mit E-Mail an contact@mcsmart.app geltend machen:
+                Werden personenbezogene Daten von Ihnen verarbeitet, sind Sie Betroffener i.S.d. DSGVO und es stehen Ihnen folgende Rechte gegenüber dem Verantwortlichen zu. Diese Rechte können Sie z.B. mit E-Mail an contact@mcsmartapp.com geltend machen:
             </p>
             <ol>
                 <li>

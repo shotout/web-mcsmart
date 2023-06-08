@@ -9,7 +9,7 @@
             <div>160 Robinson Road #14-04</div>
             <div>SBF Center</div>
             <div>Singapore 068914</div>
-            <div>Email : contact@mcsmart.app</div>
+            <div>Email : contact@mcsmartapp.com</div>
             <div>Website : https://www.mcsmart.app</div>
         </div>
     </div>

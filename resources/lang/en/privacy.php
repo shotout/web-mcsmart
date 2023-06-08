@@ -15,7 +15,7 @@ return [
             <div>160 Robinson Road #14-04</div>
             <div>SBF Center</div>
             <div>Singapore 068914</div>
-            <div>Email : contact@mcsmart.app</div>
+            <div>Email : contact@mcsmartapp.com</div>
             <div>Website : https://www.mcsmart.app</div>
 
             <h4 class="mt-3">General information on data processing</h4>
@@ -490,7 +490,7 @@ return [
                 V. Recipients of data (in third countries) / Service providers with access to personal data (from third countries)
             </h4>
             <p>
-                McSmart works together with service providers to offer services related to McSmart. A service provider receives personal data from McSmart and is commissioned to process this data for certain purposes. Below is a list of all McSmart service providers with the purpose and location of the data processing. Further details on data processing can be found in the respective privacy notices of the service providers. For more information contact contact@mcsmart.app. We would like to point out that these service providers are based in the USA, i.e. outside the EU. As the ECJ has established, there is currently no level of data protection in the USA comparable to that in the EU, as US authorities and secret services could access this data. If we obtain your consent when you access the app, you consent to the transmission of the data and any access by these authorities.
+                McSmart works together with service providers to offer services related to McSmart. A service provider receives personal data from McSmart and is commissioned to process this data for certain purposes. Below is a list of all McSmart service providers with the purpose and location of the data processing. Further details on data processing can be found in the respective privacy notices of the service providers. For more information contact contact@mcsmartapp.com. We would like to point out that these service providers are based in the USA, i.e. outside the EU. As the ECJ has established, there is currently no level of data protection in the USA comparable to that in the EU, as US authorities and secret services could access this data. If we obtain your consent when you access the app, you consent to the transmission of the data and any access by these authorities.
             </p>
             <table class="table table-bordered table-responsive-md">
                 <thead>
@@ -592,7 +592,7 @@ return [
 
             <h4 class="mt-4">Rights of the data subject</h4>
             <p>
-                If your personal data is processed, you are a data subject within the meaning of the GDPR and you have the following rights vis-à-vis the controller. You can assert these rights by sending an email to contact@mcsmart.app:
+                If your personal data is processed, you are a data subject within the meaning of the GDPR and you have the following rights vis-à-vis the controller. You can assert these rights by sending an email to contact@mcsmartapp.com:
             </p>
             <ol>
                 <li>
