@@ -83,10 +83,10 @@
             <div class="col-md-8 d-flex align-items-center justify-content-end">
                 <div class="c-hmobile c-border p-2">
                     <span class="f-inter">Available on: </span>
-                    <a style="text-decoration: none;" href="https://apps.apple.com/us/app/mooti/id6443447216" target="_blank" rel="noopener noreferrer">
+                    <a style="text-decoration: none;" href="https://apps.apple.com/app/mcsmart/id1658465230" target="_blank" rel="noopener noreferrer">
                         <img src="{{url('/assets/images/apple.svg')}}" class="ml-2" alt="App Store Logo">
                     </a>
-                    <a style="text-decoration: none;" href="https://play.google.com/store/apps/details?id=com.mooti" target="_blank" rel="noopener noreferrer">
+                    <a style="text-decoration: none;" href="https://play.google.com/store/apps/details?id=apps.mcsmart&hl=en-ID" target="_blank" rel="noopener noreferrer">
                         <img src="{{url('/assets/images/google.svg')}}" class="ml-2" alt="Play Store Logo">
                     </a>
                 </div>
@@ -109,10 +109,10 @@
                 <div class="c-dmobile">
                     <div class="f-inter mb-1">Download now:</div>
                     <div>
-                        <a style="text-decoration: none;" href="https://apps.apple.com/us/app/mooti/id6443447216" target="_blank" rel="noopener noreferrer">
+                        <a style="text-decoration: none;" href="https://apps.apple.com/app/mcsmart/id1658465230" target="_blank" rel="noopener noreferrer">
                             <img src="{{url('/assets/images/apple.svg')}}" alt="App Store Logo">
                         </a>
-                        <a style="text-decoration: none;" href="https://play.google.com/store/apps/details?id=com.mooti" target="_blank" rel="noopener noreferrer">
+                        <a style="text-decoration: none;" href="https://play.google.com/store/apps/details?id=apps.mcsmart&hl=en-ID" target="_blank" rel="noopener noreferrer">
                             <img src="{{url('/assets/images/google.svg')}}" class="ml-2" alt="Play Store Logo">
                         </a>
                     </div>
@@ -153,10 +153,10 @@
                     <img src="{{url('/assets/images/mcsmart2-desktop.png')}}" alt="McSmart App Image" class="w-100">
                     <div class="f-inter mb-1">Download now:</div>
                     <div>
-                        <a style="text-decoration: none;" href="https://apps.apple.com/us/app/mooti/id6443447216" target="_blank" rel="noopener noreferrer">
+                        <a style="text-decoration: none;" href="https://apps.apple.com/app/mcsmart/id1658465230" target="_blank" rel="noopener noreferrer">
                             <img src="{{url('/assets/images/apple.svg')}}" alt="App Store Logo">
                         </a>
-                        <a style="text-decoration: none;" href="https://play.google.com/store/apps/details?id=com.mooti" target="_blank" rel="noopener noreferrer">
+                        <a style="text-decoration: none;" href="https://play.google.com/store/apps/details?id=apps.mcsmart&hl=en-ID" target="_blank" rel="noopener noreferrer">
                             <img src="{{url('/assets/images/google.svg')}}" class="ml-2" alt="Play Store Logo">
                         </a>
                     </div>
@@ -171,10 +171,10 @@
                 <img src="{{url('/assets/images/mcsmart3-desktop.png')}}" alt="McSmart App Image" class="w-100">
                 <div class="f-inter mb-1">Download now:</div>
                 <div>
-                    <a style="text-decoration: none;" href="https://apps.apple.com/us/app/mooti/id6443447216" target="_blank" rel="noopener noreferrer">
+                    <a style="text-decoration: none;" href="https://apps.apple.com/app/mcsmart/id1658465230" target="_blank" rel="noopener noreferrer">
                         <img src="{{url('/assets/images/apple.svg')}}" alt="App Store Logo">
                     </a>
-                    <a style="text-decoration: none;" href="https://play.google.com/store/apps/details?id=com.mooti" target="_blank" rel="noopener noreferrer">
+                    <a style="text-decoration: none;" href="https://play.google.com/store/apps/details?id=apps.mcsmart&hl=en-ID" target="_blank" rel="noopener noreferrer">
                         <img src="{{url('/assets/images/google.svg')}}" class="ml-2" alt="Play Store Logo">
                     </a>
                 </div>
@@ -301,12 +301,12 @@
                 <div class="f-inter">Download now:</div>
             </div>
             <div class="col-12 text-center mb-3">
-                <a style="text-decoration: none;" href="https://apps.apple.com/us/app/mooti/id6443447216" target="_blank" rel="noopener noreferrer">
+                <a style="text-decoration: none;" href="https://apps.apple.com/app/mcsmart/id1658465230" target="_blank" rel="noopener noreferrer">
                     <img style="width: 50%;" src="{{url('/assets/images/apple.svg')}}" alt="App Store Logo">
                 </a>
             </div>
             <div class="col-12 text-center mb-3">
-                <a style="text-decoration: none;" href="https://play.google.com/store/apps/details?id=com.mooti" target="_blank" rel="noopener noreferrer">
+                <a style="text-decoration: none;" href="https://play.google.com/store/apps/details?id=apps.mcsmart&hl=en-ID" target="_blank" rel="noopener noreferrer">
                     <img style="width: 50%;" src="{{url('/assets/images/google.svg')}}" alt="Play Store Logo">
                 </a>
             </div>
